@@ -22,7 +22,7 @@ Specialized in developing dynamic web applications, designing relational databas
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
-* 📧 **Email:** [zanhayat24@gmail.com](mailto:zanhayat24@gmail.com)
-* 🌐 **GitHub:** [github.com/zanaht](https://github.com/zanaht)
+* **Email:** [zanhayat24@gmail.com](mailto:zanhayat24@gmail.com)
+* **GitHub:** [github.com/zanaht](https://github.com/zanaht)
