@@ -26,3 +26,4 @@ Specialized in developing dynamic web applications, designing relational databas
 
 * **Email:** [zanhayat24@gmail.com](mailto:zanhayat24@gmail.com)
 * **GitHub:** [github.com/zanaht](https://github.com/zanaht)
+* **linkedln:** [www.linkedin.com/in/hayat-zana-75278442b]
